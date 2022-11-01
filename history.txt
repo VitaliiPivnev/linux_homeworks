@@ -1,0 +1,62 @@
+   0 whoami
+   1 cd /
+   2 ls --help
+   3 li -l
+   4 sd
+   5 cd
+   6 ls -l
+   7 ls /bin
+   8 echo "Hello"
+   9 cd /opt
+  10 mkdir test
+  11 cd test
+  12 touch file.txt
+  13 mkdir /opt/test2 touch /opt/test2/file2.txt
+  14 mkdir -p /opt/test/user/student touch /opt/test/user/student
+  15 cd
+  16 /opt
+  17 sd /opt
+  18 cd /opt
+  19 cd /test
+  20 cd
+  21 cd /opt
+  22 test
+  23 cd /test
+  24 touch test
+  25 cd /test
+  26 test
+  27 /opt/test
+  28 cd
+  29 opt/test
+  30 cd opt/test
+  31 opt
+  32 /test
+  33 ls
+  34 cd
+  35 pwd
+  36 tree /opt
+  37 cp /opt/test/file.txt /root/123.txt
+  38 ls /root
+  39 tree /opt
+  40 mv /opt/test/file.txt /root/file2.txt
+  41 tree /opt
+  42 mv /root/file2.txt /root/newfile2.txt
+  43 tree /root
+  44 rm -rf /opt/test
+  45 tree /opt
+  46 ls
+  47 cat readme.txt 
+  48 ckear
+  49 clear
+  50 history
+  51 clear
+  52 cat /etc/os-release 
+  53 ls /etc
+  54 cat /proc
+  55 cat /proc/cpuinfo 
+  56 date
+  57 df -h
+  58 ls /
+  59 top
+  60 history
+  61 history >history.txt
